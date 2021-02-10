@@ -7,10 +7,11 @@ J'ai déjà  travaillé avec :
 * Javascript
 * Jquiery
 
-J'ai hâte d'apprendre de nouvelles pratiques.
+J'ai hâte d'apprendre de **nouvelles pratiques**.
 
 Voici mon portfolio: [I'm an inline-style link](https://www.blabla.com)
 
 
 
 > Ce qui ne me tue pas me rend plus fort. Nietzsche :muscle:
+![Photo Javascript](https://www.blabla.com)
