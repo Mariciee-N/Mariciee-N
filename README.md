@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello Guys :v:, 
 
-<!--
-**Mariciee-N/Mariciee-N** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Je suis actuellement en formation de developpeur Web chez WEB FORCE 3 :boom: :boom: :boom:.
 
-Here are some ideas to get you started:
+J'ai déjà  travaillé avec :
+* HTML/CSS
+* Javascript
+* Jquiery
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+J'ai hâte d'apprendre de nouvelles pratiques.
+
+Voici mon portfolio: [I'm an inline-style link](https://www.blabla.com)
+
+
+
+> Ce qui ne me tue pas me rend plus fort. Nietzsche :muscle:
